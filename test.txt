@@ -1,3 +1,5 @@
 zmiana krok 8
 edycja krok 10
 edycja krok 13 roznica od prod
+edycja krok 12
+Krok 15
